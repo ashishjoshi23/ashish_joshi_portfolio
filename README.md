@@ -1,5 +1,5 @@
 # ashish_joshi_portfolio
-Embedded Systems &amp; FPGA Engineer Portfolio - M.Sc. Electrical and Microsystem Engineering at OTH Regensburg
+Embedded Systems &amp; FPGA Engineer - M.Sc. Electrical and Microsystem Engineering at OTH Regensburg
 
 ## About Me
 Embedded Systems and FPGA engineer with expertise in developing real-time solutions from concept to production. Experienced in PCB design, firmware development, and system validation with 4 manufactured PCBs. Currently pursuing M.Sc. Electrical and Microsystem Engineering at OTH Regensburg.
