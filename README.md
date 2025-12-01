@@ -4,9 +4,9 @@ Embedded Systems &amp; FPGA Engineer Portfolio - M.Sc. Electrical and Microsyste
 ## About Me
 Embedded Systems and FPGA engineer with expertise in developing real-time solutions from concept to production. Experienced in PCB design, firmware development, and system validation with 4 manufactured PCBs. Currently pursuing M.Sc. Electrical and Microsystem Engineering at OTH Regensburg.
 
-** Location:** Regensburg, Germany  
-** Email:** mithlesh012@gmail.com    
-** Skills:** Embedded C/C++, Python, Verilog, FPGA, PCB Design, RTOS, IoT
+ Location: Regensburg, Germany  
+ Email: mithlesh012@gmail.com    
+ Skills: Embedded C/C++, Python, Verilog, FPGA, PCB Design, RTOS, IoT
 
 ##  Featured Projects
 
