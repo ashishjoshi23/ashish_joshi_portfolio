@@ -61,7 +61,7 @@ Optical data link implementation using IrDA protocol on Lattice iCEstick FPGA.
 **B.Tech Electronics and Communication**  
 *GL Bajaj Institute of Technology* | 2018 – 2022
 
-## 📫 Let's Connect
+## Let's Connect
 - Email: mithlesh012@gmail.com
 
 
