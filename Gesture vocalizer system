@@ -19,3 +19,10 @@ Hardware: Arduino UNO, MPU6050, HC-05 Bluetooth, Flex Sensors, Button Switch
 Software: Arduino IDE, Python, TensorFlow, Keras, OpenCV, NumPy, Matplotlib
 
 Libraries: Hunspell, scikit-learn, tkinter (for GUI)
+
+##Results
+
+Accuracy: 93%
+Precision: 95.19%
+Recall: 93.1%
+F1 Score: 94.08%
